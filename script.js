@@ -27,5 +27,5 @@ document.addEventListener("DOMContentLoaded", function() {
   //  e.preventDefault();
   //  alert("Der Download startet in Kürze...");
     // Beispiel: window.location.href = "pfad/zur/SuperBackupAndroid.apk";
-  });
+  // });
 });
