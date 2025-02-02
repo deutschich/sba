@@ -22,10 +22,10 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
   // Download-Button Event (nur Beispiel)
-  const downloadBtn = document.getElementById('downloadBtn');
-  downloadBtn.addEventListener('click', function(e) {
-    e.preventDefault();
-    alert("Der Download startet in Kürze...");
+  // const downloadBtn = document.getElementById('downloadBtn');
+  // downloadBtn.addEventListener('click', function(e) {
+  //  e.preventDefault();
+  //  alert("Der Download startet in Kürze...");
     // Beispiel: window.location.href = "pfad/zur/SuperBackupAndroid.apk";
   });
 });
